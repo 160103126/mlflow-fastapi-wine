@@ -6,7 +6,11 @@ import uvicorn
 import pandas as pd
 
 # Load the model from MLflow
-model = mlflow.pyfunc.load_model("models:/wine-quality-predictor/2")  # You can also give a local path
+# model = mlflow.pyfunc.load_model("models:/wine-quality-predictor/2")  # You can also give a local path
+# local_dir = mlflow.artifacts.download_artifacts("models:/wine-quality-predictor/2")
+# print("Model downloaded to:", local_dir)
+model = mlflow.pyfunc.load_model("model")
+
 
 # Define the input schema
 class WineFeatures(BaseModel):
@@ -33,7 +37,7 @@ def predict(features: WineFeatures):
 
 
 def run_server():
-    uvicorn.run("app:app", host="0.0.0.0", port=5002, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=5002)
 
 
 

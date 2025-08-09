@@ -12,3 +12,4 @@ postman_collection/
 .ipynb_checkpoints/
 training_curves.png
 README.md
+mlruns/
