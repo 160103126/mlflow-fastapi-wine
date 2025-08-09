@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/f97df1ae4b204f2f9f5d283fd1a2d810/artifacts
+end_time: 1754589400727
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: f97df1ae4b204f2f9f5d283fd1a2d810
+run_name: bouncy-bee-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589388537
+status: 3
+tags: []
+user_id: prade

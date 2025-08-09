@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/a300d8876f2042bf86eb8cee1c072d55/artifacts
+end_time: 1754589363040
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: a300d8876f2042bf86eb8cee1c072d55
+run_name: smiling-bug-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589350331
+status: 3
+tags: []
+user_id: prade

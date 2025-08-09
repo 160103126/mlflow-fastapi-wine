@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/c923de485bf74df784ace26f48d50f19/artifacts
+end_time: 1754589485096
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: c923de485bf74df784ace26f48d50f19
+run_name: colorful-mule-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589472333
+status: 3
+tags: []
+user_id: prade

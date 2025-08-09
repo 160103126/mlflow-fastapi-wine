@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/models/m-0ae0c9426f304034a56a7100e2ad06db/artifacts
+creation_timestamp: 1754589500466
+experiment_id: '895387645806649699'
+last_updated_timestamp: 1754589508692
+model_id: m-0ae0c9426f304034a56a7100e2ad06db
+model_type: null
+name: model
+source_run_id: fbe3b2d63da345c99ac77a7d0d8aa79a
+status: 2
+status_message: null

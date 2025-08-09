@@ -1,0 +1,28 @@
+artifact_path: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/models/m-bb39a34dbe3843f39c5a5b686ce88630/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.10.0
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.19.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.2.0
+model_id: m-bb39a34dbe3843f39c5a5b686ce88630
+model_size_bytes: 51316
+model_uuid: m-bb39a34dbe3843f39c5a5b686ce88630
+prompts: null
+run_id: 4085d9634da541918f78377b9040095e
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 11]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-07 17:58:32.643993'

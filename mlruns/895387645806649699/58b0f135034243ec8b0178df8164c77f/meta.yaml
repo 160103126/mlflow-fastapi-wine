@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/58b0f135034243ec8b0178df8164c77f/artifacts
+end_time: 1754589460249
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: 58b0f135034243ec8b0178df8164c77f
+run_name: youthful-auk-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589449534
+status: 3
+tags: []
+user_id: prade

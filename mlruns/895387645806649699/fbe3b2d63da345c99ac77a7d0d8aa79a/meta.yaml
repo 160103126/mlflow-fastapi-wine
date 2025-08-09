@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/fbe3b2d63da345c99ac77a7d0d8aa79a/artifacts
+end_time: 1754589509021
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: fbe3b2d63da345c99ac77a7d0d8aa79a
+run_name: abrasive-duck-372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589497779
+status: 3
+tags: []
+user_id: prade

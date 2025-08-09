@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/f4bec7e90f1547a0a7b0bc7037c9e58d/artifacts
+end_time: 1754589425226
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: f4bec7e90f1547a0a7b0bc7037c9e58d
+run_name: incongruous-vole-345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589412726
+status: 3
+tags: []
+user_id: prade

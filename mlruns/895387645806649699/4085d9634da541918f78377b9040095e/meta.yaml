@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/4085d9634da541918f78377b9040095e/artifacts
+end_time: 1754589521139
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: 4085d9634da541918f78377b9040095e
+run_name: learned-jay-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589509031
+status: 3
+tags: []
+user_id: prade

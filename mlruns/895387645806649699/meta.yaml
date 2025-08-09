@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699
+creation_time: 1754589325344
+experiment_id: '895387645806649699'
+last_update_time: 1754589325344
+lifecycle_stage: active
+name: wine-quality-optimization

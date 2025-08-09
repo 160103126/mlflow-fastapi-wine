@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/f0e0bc629b114b10bc601debf0b9c2fc/artifacts
+end_time: 1754589388526
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: f0e0bc629b114b10bc601debf0b9c2fc
+run_name: bouncy-snake-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589375835
+status: 3
+tags: []
+user_id: prade

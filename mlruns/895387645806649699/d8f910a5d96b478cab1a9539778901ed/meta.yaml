@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/prade/Documents/MLFlow_E2E_wine_predict/mlruns/895387645806649699/d8f910a5d96b478cab1a9539778901ed/artifacts
+end_time: 1754589521194
+entry_point_name: ''
+experiment_id: '895387645806649699'
+lifecycle_stage: active
+run_id: d8f910a5d96b478cab1a9539778901ed
+run_name: hyperparameter-sweep
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754589325598
+status: 3
+tags: []
+user_id: prade
