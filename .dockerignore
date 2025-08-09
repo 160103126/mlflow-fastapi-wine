@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.vscode/
+Dockerfile
+.dockerignore
+wine_predict.ipynb
+postman_collection/
+.ipynb_checkpoints/
+training_curves.png
+README.md
