@@ -1,4 +1,4 @@
-name: Build and Push Docker Image
+name: Build and Push Docker Image & Deploy to Render
 
 on:
   push:
@@ -23,3 +23,7 @@ jobs:
         with:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/mlflow_wine_api:latest
+
+      - name: Trigger Render Deploy
+        run: |
+          curl -X POST "${{ secrets.RENDER_DEPLOY_HOOK }}"
