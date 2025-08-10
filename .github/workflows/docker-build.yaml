@@ -22,4 +22,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/fastapi-wine:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/mlflow_wine_api:latest
