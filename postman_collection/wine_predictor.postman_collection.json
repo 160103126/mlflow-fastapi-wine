@@ -20,15 +20,13 @@
 					}
 				},
 				"url": {
-					"raw": "http://0.0.0.0:8080/predict",
-					"protocol": "http",
+					"raw": "https://mlflow-wine-api-latest.onrender.com/predict",
+					"protocol": "https",
 					"host": [
-						"0",
-						"0",
-						"0",
-						"0"
+						"mlflow-wine-api-latest",
+						"onrender",
+						"com"
 					],
-					"port": "8080",
 					"path": [
 						"predict"
 					]
